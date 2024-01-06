@@ -4,3 +4,7 @@ The part holds the RGB strip and a small DC/DC converter to enable the strip to 
 I've statically choosen the color by just powering the G+B leds, letting the R channel unpowered.
 
 ![image](./image.png)
+
+Printed result (in draft quality)
+
+![image](./printed.png)
