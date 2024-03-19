@@ -9,7 +9,7 @@ Webcam integrated in laptop are usually USB and can be connected to an USB port 
 
 *NOTE*: The screws holes turned out to be not perfectly positioned, but it worked.
 
-*NOTE:* The cap clips almost failed to print with these settings (but they still did "click", so I didn't re-print it.
+*NOTE:* The cap clips almost failed to print with these settings - but they still did "click", so I didn't re-print it.
 
 *NOTE:* The lens hole is a bit off-axis, but still good enough
 
