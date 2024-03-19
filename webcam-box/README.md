@@ -16,6 +16,6 @@ Webcam integrated in laptop are usually USB and can be connected to an USB port 
 ![box](image1.jpg)
 ![box](image3.jpg)
 
-I us the webcam to keep an eye on my 3d printer :)
+I use the webcam to keep an eye on my 3d printer :)
 
 ![box](image4.jpg)
